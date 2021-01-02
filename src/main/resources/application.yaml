@@ -1,0 +1,9 @@
+currency-layer:
+  base-url: http://api.currencylayer.com/
+  access-key: 6dda98266a2bb3556400b853b95f2136
+  connect-timeout: 10000
+  read-timeout: 10000
+atms:
+  base-url: https://www.ing.nl/api/
+  connect-timeout: 10000
+  read-timeout: 10000
